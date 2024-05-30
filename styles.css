@@ -41,7 +41,7 @@ body {
 
 .product-info {
     flex: 1;
-    padding: 35px;
+    padding: 28px;
 }
 
 .text-column {
@@ -95,7 +95,7 @@ body {
     display: inline-block;
     background-color: #1f4236;
     color: var(--color-fifth);
-    padding: 13px 72px;
+    padding: 13px 70px;
     border: none;
     border-radius: 7px;
     cursor: pointer;
